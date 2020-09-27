@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # sapper-template
 
 The default [Sapper](https://github.com/sveltejs/sapper) template, available for Rollup and webpack.
@@ -109,3 +110,7 @@ npm install -D @sveltejs/svelte-virtual-list
 ## Bugs and feedback
 
 Sapper is in early development, and may have the odd rough edge here and there. Please be vocal over on the [Sapper issue tracker](https://github.com/sveltejs/sapper/issues).
+=======
+# ghost-sapper-template
+Svelte/Sapper Template for Ghost CMS running in headless mode
+>>>>>>> 83ede318f404e1105b2a459cfecd36e4cc9068ff
